@@ -2,4 +2,7 @@ tumkur
 pavagada
 manglore
 gubbi
+mysore
+banglore
+
 
